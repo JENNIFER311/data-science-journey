@@ -13,6 +13,6 @@ Welcome to my Github learning space where I'm documenting my hands-on journey in
 ## Daily Progress Log
 
 PYTHON :
-D - 1 : Data types and variables
-D - 2 : String Functions
-D - 3 : Operators
+- D - 1 : Data types and variables
+- D - 2 : String Functions
+- D - 3 : Operators
