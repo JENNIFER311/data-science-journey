@@ -13,7 +13,7 @@ Welcome to my Github learning space where I'm documenting my hands-on journey in
 ## Daily Progress Log
 
 > This section will be updated as I go - like a learning journal.
-> PYTHON :
-> D - 1 : Data types and variables
-> D - 2 : String Functions
-> D - 3 : Operators
+PYTHON :
+D - 1 : Data types and variables
+D - 2 : String Functions
+D - 3 : Operators
