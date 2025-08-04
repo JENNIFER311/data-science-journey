@@ -19,6 +19,7 @@ Week 1 :
 - Operators (Arithmetic, Logical, Bitwise)
 - Loops (for, while)
 - Conditional Statements (if-else)
+
 Week 2 :
 - List (access, insert, remove, loops in list, list comprehension, list sorting, list methods)
 - Tuple (access, unpack tuples, tuple methods)
