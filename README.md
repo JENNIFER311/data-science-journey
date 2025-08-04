@@ -12,7 +12,10 @@ Welcome to my Github learning space where I'm documenting my hands-on journey in
 
 ## Daily Progress Log
 
-PYTHON :
-- D - 1 : Data types and variables
-- D - 2 : String Functions
-- D - 3 : Operators
+## Python 
+Week 1 :
+- Variables & Data Types
+- Strings
+- Operators (Arithmetic, Logical, Bitwise)
+- Loops (for, while)
+- Conditional Statements (if-else)
