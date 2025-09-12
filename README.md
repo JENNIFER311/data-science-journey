@@ -53,7 +53,7 @@ This repo contains my notes, mini-projects, and implementations as I progress st
 
 ## 📂 Repo Structure
 
-- `Python/` → Notes and practice scripts  
+- `python/` → Notes and practice scripts  
 - `ml_mini_projects/` → Machine learning mini-projects   
 
 ---
