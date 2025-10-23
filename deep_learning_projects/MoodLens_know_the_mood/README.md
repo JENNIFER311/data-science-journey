@@ -4,7 +4,7 @@ This Streamlit app fetches YouTube video comments and analyzes the **emotions** 
 
 ## Features
 
-- Multi-emotion detection using Hugging Face `j-hartmann/emotion-english-distilroberta-base`.
+- Multi-emotion detection using Hugging Face.
 - Emojis for each comment based on detected emotion.
 - Emotion distribution chart using Plotly.
 - Word cloud of comments.
