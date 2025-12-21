@@ -44,11 +44,20 @@ This repo contains my notes, mini-projects, and implementations as I progress st
 - Unsupervised: K-Means Clustering  
 - Reinforcement: Q-Learning  
 
-### 🔄 Deep Learning (In Progress)
+### 🔄 Deep Learning (Completed)
 - Perceptron Implementation  
-- Activation Functions & Backpropagation (Upcoming)  
-- Neural Networks & Advanced Architectures (Upcoming)  
+- Convolutional Neural Network (CNN)
+- Generative Adversarial Networks (GANs)
+- Variational Autoencoder (VAE)
+- Natural Language Processing (NLP)  
 
+### ✅ Power Bi (completed)
+- Data importing from CSV and Excel files
+- Data cleaning and transformation using Power Query
+- Building interactive visuals (bar, line, pie, cards, tables)
+- Using slicers for dynamic filtering (Year, Product, Category)
+- Creating calculated columns and measures using DAX
+- Using aggregation functions (SUM, AVERAGE, COUNT)
 ---
 
 ## 📂 Repo Structure
