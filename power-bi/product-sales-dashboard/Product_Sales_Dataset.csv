@@ -1,0 +1,351 @@
+Year,Country,City,Product,Quantity Sold,Sales Amount
+2020,India,Chennai,Laptop,3030,498335
+2020,India,Chennai,Smartphone,1830,162881
+2020,India,Chennai,Tablet,4369,256975
+2020,India,Chennai,Smartwatch,1832,247178
+2020,India,Chennai,Headphones,3507,336817
+2020,India,Bangalore,Laptop,1331,66036
+2020,India,Bangalore,Smartphone,579,93765
+2020,India,Bangalore,Tablet,1472,481786
+2020,India,Bangalore,Smartwatch,3243,112335
+2020,India,Bangalore,Headphones,524,327555
+2020,India,Mumbai,Laptop,1780,281039
+2020,India,Mumbai,Smartphone,3205,469439
+2020,India,Mumbai,Tablet,4375,233331
+2020,India,Mumbai,Smartwatch,1005,218860
+2020,India,Mumbai,Headphones,119,197226
+2020,India,Delhi,Laptop,1408,349481
+2020,India,Delhi,Smartphone,479,333469
+2020,India,Delhi,Tablet,2864,248930
+2020,India,Delhi,Smartwatch,2412,411417
+2020,India,Delhi,Headphones,3035,277121
+2020,USA,New York,Laptop,1492,450251
+2020,USA,New York,Smartphone,2171,65509
+2020,USA,New York,Tablet,3527,278794
+2020,USA,New York,Smartwatch,982,78753
+2020,USA,New York,Headphones,4530,401378
+2020,USA,Los Angeles,Laptop,2865,495189
+2020,USA,Los Angeles,Smartphone,4074,111431
+2020,USA,Los Angeles,Tablet,2840,288783
+2020,USA,Los Angeles,Smartwatch,2845,150646
+2020,USA,Los Angeles,Headphones,256,323176
+2020,USA,Chicago,Laptop,4429,215449
+2020,USA,Chicago,Smartphone,557,375703
+2020,USA,Chicago,Tablet,4703,296497
+2020,USA,Chicago,Smartwatch,4825,173420
+2020,USA,Chicago,Headphones,488,137342
+2020,USA,Houston,Laptop,1752,490479
+2020,USA,Houston,Smartphone,4561,53420
+2020,USA,Houston,Tablet,3524,229803
+2020,USA,Houston,Smartwatch,283,365262
+2020,USA,Houston,Headphones,3836,307585
+2020,UK,London,Laptop,3064,334243
+2020,UK,London,Smartphone,3463,448219
+2020,UK,London,Tablet,327,231158
+2020,UK,London,Smartwatch,671,488160
+2020,UK,London,Headphones,1317,488212
+2020,UK,Manchester,Laptop,4686,161270
+2020,UK,Manchester,Smartphone,1741,132234
+2020,UK,Manchester,Tablet,495,165460
+2020,UK,Manchester,Smartwatch,486,468551
+2020,UK,Manchester,Headphones,1292,253695
+2020,UK,Birmingham,Laptop,3872,413624
+2020,UK,Birmingham,Smartphone,4165,362097
+2020,UK,Birmingham,Tablet,4341,179852
+2020,UK,Birmingham,Smartwatch,4906,427847
+2020,UK,Birmingham,Headphones,3238,438136
+2020,Germany,Berlin,Laptop,2596,159891
+2020,Germany,Berlin,Smartphone,4351,71413
+2020,Germany,Berlin,Tablet,2006,320272
+2020,Germany,Berlin,Smartwatch,4288,282250
+2020,Germany,Berlin,Headphones,2798,155799
+2020,Germany,Munich,Laptop,679,151753
+2020,Germany,Munich,Smartphone,4728,368392
+2020,Germany,Munich,Tablet,155,102854
+2020,Germany,Munich,Smartwatch,3258,263374
+2020,Germany,Munich,Headphones,3863,110260
+2020,Germany,Hamburg,Laptop,4836,416203
+2020,Germany,Hamburg,Smartphone,2016,229627
+2020,Germany,Hamburg,Tablet,1730,231517
+2020,Germany,Hamburg,Smartwatch,4986,436909
+2020,Germany,Hamburg,Headphones,2149,446079
+2021,India,Chennai,Laptop,2336,357594
+2021,India,Chennai,Smartphone,4910,176770
+2021,India,Chennai,Tablet,271,396965
+2021,India,Chennai,Smartwatch,4943,315556
+2021,India,Chennai,Headphones,2174,275547
+2021,India,Bangalore,Laptop,3584,105170
+2021,India,Bangalore,Smartphone,3654,488747
+2021,India,Bangalore,Tablet,3074,69503
+2021,India,Bangalore,Smartwatch,3201,375272
+2021,India,Bangalore,Headphones,2828,232039
+2021,India,Mumbai,Laptop,2093,159968
+2021,India,Mumbai,Smartphone,4380,428426
+2021,India,Mumbai,Tablet,3697,472778
+2021,India,Mumbai,Smartwatch,1550,356096
+2021,India,Mumbai,Headphones,2685,251396
+2021,India,Delhi,Laptop,3240,447035
+2021,India,Delhi,Smartphone,3114,377885
+2021,India,Delhi,Tablet,3134,186014
+2021,India,Delhi,Smartwatch,4319,96925
+2021,India,Delhi,Headphones,654,209672
+2021,USA,New York,Laptop,549,275112
+2021,USA,New York,Smartphone,521,178723
+2021,USA,New York,Tablet,158,480045
+2021,USA,New York,Smartwatch,852,486032
+2021,USA,New York,Headphones,1802,268094
+2021,USA,Los Angeles,Laptop,2660,126635
+2021,USA,Los Angeles,Smartphone,2059,232151
+2021,USA,Los Angeles,Tablet,503,306524
+2021,USA,Los Angeles,Smartwatch,4341,334683
+2021,USA,Los Angeles,Headphones,4107,167888
+2021,USA,Chicago,Laptop,2048,64141
+2021,USA,Chicago,Smartphone,2385,261593
+2021,USA,Chicago,Tablet,553,281251
+2021,USA,Chicago,Smartwatch,4118,313956
+2021,USA,Chicago,Headphones,634,486873
+2021,USA,Houston,Laptop,820,66116
+2021,USA,Houston,Smartphone,2796,355817
+2021,USA,Houston,Tablet,1310,450123
+2021,USA,Houston,Smartwatch,424,461135
+2021,USA,Houston,Headphones,2353,237876
+2021,UK,London,Laptop,3816,424442
+2021,UK,London,Smartphone,4237,332802
+2021,UK,London,Tablet,694,69636
+2021,UK,London,Smartwatch,3579,299871
+2021,UK,London,Headphones,3694,186795
+2021,UK,Manchester,Laptop,3983,165252
+2021,UK,Manchester,Smartphone,2147,308790
+2021,UK,Manchester,Tablet,1036,275116
+2021,UK,Manchester,Smartwatch,2736,344043
+2021,UK,Manchester,Headphones,2866,388288
+2021,UK,Birmingham,Laptop,3091,177847
+2021,UK,Birmingham,Smartphone,4404,259329
+2021,UK,Birmingham,Tablet,1770,422818
+2021,UK,Birmingham,Smartwatch,1915,395583
+2021,UK,Birmingham,Headphones,2772,230971
+2021,Germany,Berlin,Laptop,4404,279219
+2021,Germany,Berlin,Smartphone,4547,292775
+2021,Germany,Berlin,Tablet,4690,160555
+2021,Germany,Berlin,Smartwatch,338,229701
+2021,Germany,Berlin,Headphones,677,71800
+2021,Germany,Munich,Laptop,2159,127517
+2021,Germany,Munich,Smartphone,4107,487047
+2021,Germany,Munich,Tablet,1502,399102
+2021,Germany,Munich,Smartwatch,2877,390248
+2021,Germany,Munich,Headphones,4256,72981
+2021,Germany,Hamburg,Laptop,4311,486892
+2021,Germany,Hamburg,Smartphone,2730,353960
+2021,Germany,Hamburg,Tablet,4406,388613
+2021,Germany,Hamburg,Smartwatch,451,458818
+2021,Germany,Hamburg,Headphones,2087,270373
+2022,India,Chennai,Laptop,4736,140573
+2022,India,Chennai,Smartphone,2575,308471
+2022,India,Chennai,Tablet,3972,294811
+2022,India,Chennai,Smartwatch,4227,117209
+2022,India,Chennai,Headphones,2819,174158
+2022,India,Bangalore,Laptop,4707,120074
+2022,India,Bangalore,Smartphone,3165,64462
+2022,India,Bangalore,Tablet,3242,340025
+2022,India,Bangalore,Smartwatch,4010,88671
+2022,India,Bangalore,Headphones,4307,77818
+2022,India,Mumbai,Laptop,311,473807
+2022,India,Mumbai,Smartphone,4145,485457
+2022,India,Mumbai,Tablet,2505,120131
+2022,India,Mumbai,Smartwatch,2437,277443
+2022,India,Mumbai,Headphones,1438,387596
+2022,India,Delhi,Laptop,3486,229234
+2022,India,Delhi,Smartphone,3367,194078
+2022,India,Delhi,Tablet,1734,110276
+2022,India,Delhi,Smartwatch,581,87715
+2022,India,Delhi,Headphones,2905,161050
+2022,USA,New York,Laptop,2510,438795
+2022,USA,New York,Smartphone,1274,293844
+2022,USA,New York,Tablet,1955,315327
+2022,USA,New York,Smartwatch,1934,317465
+2022,USA,New York,Headphones,1733,112465
+2022,USA,Los Angeles,Laptop,1140,394741
+2022,USA,Los Angeles,Smartphone,1646,421765
+2022,USA,Los Angeles,Tablet,1089,173122
+2022,USA,Los Angeles,Smartwatch,3577,405504
+2022,USA,Los Angeles,Headphones,3300,374949
+2022,USA,Chicago,Laptop,1120,255906
+2022,USA,Chicago,Smartphone,3691,221045
+2022,USA,Chicago,Tablet,3540,326223
+2022,USA,Chicago,Smartwatch,3385,176553
+2022,USA,Chicago,Headphones,2365,157948
+2022,USA,Houston,Laptop,221,176308
+2022,USA,Houston,Smartphone,459,187969
+2022,USA,Houston,Tablet,1060,498234
+2022,USA,Houston,Smartwatch,3117,189491
+2022,USA,Houston,Headphones,3950,374102
+2022,UK,London,Laptop,1100,306998
+2022,UK,London,Smartphone,1875,353067
+2022,UK,London,Tablet,2149,473846
+2022,UK,London,Smartwatch,1994,240550
+2022,UK,London,Headphones,2126,420409
+2022,UK,Manchester,Laptop,694,55876
+2022,UK,Manchester,Smartphone,368,154496
+2022,UK,Manchester,Tablet,782,418256
+2022,UK,Manchester,Smartwatch,2762,128955
+2022,UK,Manchester,Headphones,2378,61883
+2022,UK,Birmingham,Laptop,3480,80773
+2022,UK,Birmingham,Smartphone,4107,289408
+2022,UK,Birmingham,Tablet,3170,277398
+2022,UK,Birmingham,Smartwatch,2499,112390
+2022,UK,Birmingham,Headphones,815,380416
+2022,Germany,Berlin,Laptop,1160,210642
+2022,Germany,Berlin,Smartphone,953,67208
+2022,Germany,Berlin,Tablet,4836,460676
+2022,Germany,Berlin,Smartwatch,1738,496427
+2022,Germany,Berlin,Headphones,3543,137284
+2022,Germany,Munich,Laptop,384,241684
+2022,Germany,Munich,Smartphone,1830,309753
+2022,Germany,Munich,Tablet,4937,409784
+2022,Germany,Munich,Smartwatch,1806,402220
+2022,Germany,Munich,Headphones,2164,480429
+2022,Germany,Hamburg,Laptop,871,464887
+2022,Germany,Hamburg,Smartphone,2602,446974
+2022,Germany,Hamburg,Tablet,2343,56582
+2022,Germany,Hamburg,Smartwatch,4312,225698
+2022,Germany,Hamburg,Headphones,3961,134155
+2023,India,Chennai,Laptop,4780,289792
+2023,India,Chennai,Smartphone,3926,152083
+2023,India,Chennai,Tablet,3280,480761
+2023,India,Chennai,Smartwatch,4337,90016
+2023,India,Chennai,Headphones,1227,475337
+2023,India,Bangalore,Laptop,2298,141760
+2023,India,Bangalore,Smartphone,2318,241341
+2023,India,Bangalore,Tablet,4757,395986
+2023,India,Bangalore,Smartwatch,2857,78576
+2023,India,Bangalore,Headphones,1476,169089
+2023,India,Mumbai,Laptop,4797,60456
+2023,India,Mumbai,Smartphone,2391,360205
+2023,India,Mumbai,Tablet,2533,331096
+2023,India,Mumbai,Smartwatch,915,469305
+2023,India,Mumbai,Headphones,3116,340415
+2023,India,Delhi,Laptop,2148,467296
+2023,India,Delhi,Smartphone,373,208015
+2023,India,Delhi,Tablet,198,225166
+2023,India,Delhi,Smartwatch,145,434613
+2023,India,Delhi,Headphones,4550,382887
+2023,USA,New York,Laptop,1206,352767
+2023,USA,New York,Smartphone,1608,274406
+2023,USA,New York,Tablet,1629,350993
+2023,USA,New York,Smartwatch,388,154725
+2023,USA,New York,Headphones,4055,227534
+2023,USA,Los Angeles,Laptop,4308,127839
+2023,USA,Los Angeles,Smartphone,2554,110101
+2023,USA,Los Angeles,Tablet,261,220522
+2023,USA,Los Angeles,Smartwatch,3789,389282
+2023,USA,Los Angeles,Headphones,1746,114509
+2023,USA,Chicago,Laptop,1992,369773
+2023,USA,Chicago,Smartphone,2701,86172
+2023,USA,Chicago,Tablet,1443,175002
+2023,USA,Chicago,Smartwatch,4613,106483
+2023,USA,Chicago,Headphones,1833,136338
+2023,USA,Houston,Laptop,1894,458506
+2023,USA,Houston,Smartphone,4304,435977
+2023,USA,Houston,Tablet,1449,461157
+2023,USA,Houston,Smartwatch,3727,298259
+2023,USA,Houston,Headphones,3994,190840
+2023,UK,London,Laptop,4888,307212
+2023,UK,London,Smartphone,1477,150743
+2023,UK,London,Tablet,119,409234
+2023,UK,London,Smartwatch,697,178465
+2023,UK,London,Headphones,1253,393991
+2023,UK,Manchester,Laptop,2071,329970
+2023,UK,Manchester,Smartphone,1154,221391
+2023,UK,Manchester,Tablet,658,131068
+2023,UK,Manchester,Smartwatch,3051,131041
+2023,UK,Manchester,Headphones,2363,205463
+2023,UK,Birmingham,Laptop,3531,342878
+2023,UK,Birmingham,Smartphone,3445,103011
+2023,UK,Birmingham,Tablet,2974,492426
+2023,UK,Birmingham,Smartwatch,4342,420705
+2023,UK,Birmingham,Headphones,2695,301035
+2023,Germany,Berlin,Laptop,2219,74530
+2023,Germany,Berlin,Smartphone,3765,312504
+2023,Germany,Berlin,Tablet,3979,432827
+2023,Germany,Berlin,Smartwatch,4019,370165
+2023,Germany,Berlin,Headphones,3663,155685
+2023,Germany,Munich,Laptop,1862,141118
+2023,Germany,Munich,Smartphone,1358,415128
+2023,Germany,Munich,Tablet,4226,497402
+2023,Germany,Munich,Smartwatch,119,364166
+2023,Germany,Munich,Headphones,1909,382842
+2023,Germany,Hamburg,Laptop,807,272931
+2023,Germany,Hamburg,Smartphone,1398,108751
+2023,Germany,Hamburg,Tablet,4731,395480
+2023,Germany,Hamburg,Smartwatch,2542,382513
+2023,Germany,Hamburg,Headphones,3761,89973
+2024,India,Chennai,Laptop,4792,384284
+2024,India,Chennai,Smartphone,3784,337611
+2024,India,Chennai,Tablet,2867,121899
+2024,India,Chennai,Smartwatch,251,287583
+2024,India,Chennai,Headphones,1251,476240
+2024,India,Bangalore,Laptop,1917,423855
+2024,India,Bangalore,Smartphone,164,301382
+2024,India,Bangalore,Tablet,1527,406120
+2024,India,Bangalore,Smartwatch,2450,152671
+2024,India,Bangalore,Headphones,1451,349606
+2024,India,Mumbai,Laptop,229,471833
+2024,India,Mumbai,Smartphone,3341,75035
+2024,India,Mumbai,Tablet,1128,52464
+2024,India,Mumbai,Smartwatch,4486,492576
+2024,India,Mumbai,Headphones,2912,52921
+2024,India,Delhi,Laptop,883,153345
+2024,India,Delhi,Smartphone,1342,58025
+2024,India,Delhi,Tablet,1706,468775
+2024,India,Delhi,Smartwatch,3468,209717
+2024,India,Delhi,Headphones,376,444683
+2024,USA,New York,Laptop,149,259070
+2024,USA,New York,Smartphone,1299,94668
+2024,USA,New York,Tablet,2721,277569
+2024,USA,New York,Smartwatch,4766,432056
+2024,USA,New York,Headphones,4219,452674
+2024,USA,Los Angeles,Laptop,3482,154358
+2024,USA,Los Angeles,Smartphone,3604,124298
+2024,USA,Los Angeles,Tablet,1461,178861
+2024,USA,Los Angeles,Smartwatch,1668,444281
+2024,USA,Los Angeles,Headphones,4410,264990
+2024,USA,Chicago,Laptop,1428,394382
+2024,USA,Chicago,Smartphone,2819,397142
+2024,USA,Chicago,Tablet,692,239035
+2024,USA,Chicago,Smartwatch,3810,231596
+2024,USA,Chicago,Headphones,4114,461502
+2024,USA,Houston,Laptop,4065,67651
+2024,USA,Houston,Smartphone,3352,181102
+2024,USA,Houston,Tablet,1160,106829
+2024,USA,Houston,Smartwatch,4768,311017
+2024,USA,Houston,Headphones,443,390771
+2024,UK,London,Laptop,268,351230
+2024,UK,London,Smartphone,3579,79920
+2024,UK,London,Tablet,199,120704
+2024,UK,London,Smartwatch,1115,461313
+2024,UK,London,Headphones,1679,128590
+2024,UK,Manchester,Laptop,2861,322765
+2024,UK,Manchester,Smartphone,3302,123813
+2024,UK,Manchester,Tablet,101,161535
+2024,UK,Manchester,Smartwatch,3966,194705
+2024,UK,Manchester,Headphones,2257,312544
+2024,UK,Birmingham,Laptop,3069,333730
+2024,UK,Birmingham,Smartphone,2007,276742
+2024,UK,Birmingham,Tablet,4278,272789
+2024,UK,Birmingham,Smartwatch,2548,400474
+2024,UK,Birmingham,Headphones,4343,332006
+2024,Germany,Berlin,Laptop,4915,74067
+2024,Germany,Berlin,Smartphone,1317,338098
+2024,Germany,Berlin,Tablet,4914,253080
+2024,Germany,Berlin,Smartwatch,4260,279907
+2024,Germany,Berlin,Headphones,1498,192476
+2024,Germany,Munich,Laptop,3677,71970
+2024,Germany,Munich,Smartphone,3515,155248
+2024,Germany,Munich,Tablet,240,110650
+2024,Germany,Munich,Smartwatch,2255,170039
+2024,Germany,Munich,Headphones,878,255111
+2024,Germany,Hamburg,Laptop,2878,462965
+2024,Germany,Hamburg,Smartphone,2304,206068
+2024,Germany,Hamburg,Tablet,4563,253062
+2024,Germany,Hamburg,Smartwatch,4282,285089
+2024,Germany,Hamburg,Headphones,2965,356032
