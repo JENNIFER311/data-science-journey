@@ -63,7 +63,8 @@ This repo contains my notes, mini-projects, and implementations as I progress st
 ## 📂 Repo Structure
 
 - `python/` → Notes and practice scripts  
-- `ml_mini_projects/` → Machine learning mini-projects   
+- `ml_mini_projects/` → Machine learning mini-projects
+- `power-bi/` → Power bi projects 
 
 ---
 
